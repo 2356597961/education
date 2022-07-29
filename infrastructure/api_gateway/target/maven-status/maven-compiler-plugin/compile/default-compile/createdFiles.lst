@@ -1,0 +1,5 @@
+com\xiaoliu\gateway\ApiGatewayApplication.class
+com\xiaoliu\gateway\handler\ErrorHandlerConfig.class
+com\xiaoliu\gateway\handler\JsonExceptionHandler.class
+com\xiaoliu\gateway\filter\AuthGlobalFilter.class
+com\xiaoliu\gateway\config\CorsConfig.class

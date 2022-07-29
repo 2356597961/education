@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="536acafe-afde-40f1-a8db-b37242ffbe53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_easyexcel_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_client_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_common_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_otter_canal_client_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_otter_canal_common_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_otter_canal_protocol_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_core_4_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ecs_4_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ram_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_sts_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_vod_2_15_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_sdk_vod_upload_1_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_wxpay_wxpay_sdk_0_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbutils_commons_dbutils_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_0_9_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_prometheus_simpleclient_0_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_60.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_60.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ehcache_ehcache_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jacoco_org_jacoco_agent_runtime_0_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_alibaba_nacos_config_0_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_alibaba_nacos_discovery_0_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_core_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_alibaba_nacos_config_0_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_alibaba_nacos_discovery_0_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_multipart_parser_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_stream_storage_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canal_client/canal_client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canal_client/target/canal_client-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canal_client/target/canal_client-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canal_client/target/classes/com/xiaoliu/canal/CanalApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canal_client/target/classes/com/xiaoliu/canal/client/CanalClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canal_client/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canal_client/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canal_client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canal_client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canal_client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/common_utils.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/target/classes/com/xiaoliu/commonutils/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/target/classes/com/xiaoliu/commonutils/JwtUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/target/classes/com/xiaoliu/commonutils/MD5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/target/classes/com/xiaoliu/commonutils/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/target/classes/com/xiaoliu/commonutils/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/target/classes/com/xiaoliu/commonutils/ResponseUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/target/classes/com/xiaoliu/commonutils/ResultCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/target/common_utils-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common_utils/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/service_base.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/target/classes/com/xiaoliu/servicebase/RedisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/target/classes/com/xiaoliu/servicebase/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/target/classes/com/xiaoliu/servicebase/exceptionhandler/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/target/classes/com/xiaoliu/servicebase/exceptionhandler/XiaoliuException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/target/classes/com/xiaoliu/servicebase/handler/MyMetaObjectHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/target/service_base-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/spring_security.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/target/classes/com/xiaoliu/serurity/config/TokenWebSecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/target/classes/com/xiaoliu/serurity/entity/SecurityUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/target/classes/com/xiaoliu/serurity/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/target/classes/com/xiaoliu/serurity/filter/TokenAuthenticationFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/target/classes/com/xiaoliu/serurity/filter/TokenLoginFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/target/classes/com/xiaoliu/serurity/security/DefaultPasswordEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/target/classes/com/xiaoliu/serurity/security/TokenLogoutHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/target/classes/com/xiaoliu/serurity/security/TokenManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/target/classes/com/xiaoliu/serurity/security/UnauthorizedEntryPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/spring_security/target/spring_security-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infrastructure/api_gateway/api_gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infrastructure/api_gateway/target/api_gateway-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infrastructure/api_gateway/target/api_gateway-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infrastructure/api_gateway/target/classes/com/xiaoliu/gateway/ApiGatewayApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infrastructure/api_gateway/target/classes/com/xiaoliu/gateway/config/CorsConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infrastructure/api_gateway/target/classes/com/xiaoliu/gateway/filter/AuthGlobalFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infrastructure/api_gateway/target/classes/com/xiaoliu/gateway/handler/ErrorHandlerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infrastructure/api_gateway/target/classes/com/xiaoliu/gateway/handler/JsonExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infrastructure/api_gateway/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infrastructure/api_gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infrastructure/api_gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infrastructure/api_gateway/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infrastructure/api_gateway/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infrastructure/infrastructure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/service-acl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/AclApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/config/Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/controller/IndexController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/controller/PermissionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/controller/RoleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/entity/Permission.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/entity/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/entity/RolePermission.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/entity/UserRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/helper/MemuHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/helper/PermissionHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/mapper/PermissionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/mapper/RoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/mapper/RolePermissionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/mapper/UserRoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/service/IndexService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/service/PermissionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/service/RolePermissionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/service/RoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/service/UserRoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/service/impl/IndexServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/service/impl/PermissionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/service/impl/RolePermissionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/service/impl/RoleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/service/impl/UserDetailsServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/service/impl/UserRoleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/service-acl-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/service-acl-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-acl/target/test-classes/com/xiaoliu/demo/CodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/service-cms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/target/classes/com/xiaoliu/cmsservice/CmsApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/target/classes/com/xiaoliu/cmsservice/controller/BannerAdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/target/classes/com/xiaoliu/cmsservice/controller/BannerFrontController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/target/classes/com/xiaoliu/cmsservice/entity/CrmBanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/target/classes/com/xiaoliu/cmsservice/mapper/CrmBannerMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/target/classes/com/xiaoliu/cmsservice/service/CrmBannerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/target/classes/com/xiaoliu/cmsservice/service/impl/CrmBannerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/target/service-cms-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/target/service-cms-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-cms/target/test-classes/com/xiaoliu/demo/CodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-msm/service-msm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-msm/target/classes/com/xiaoliu/msmservice/MsmApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-msm/target/classes/com/xiaoliu/msmservice/controller/MsmController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-msm/target/classes/com/xiaoliu/msmservice/mapper/MsmMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-msm/target/classes/com/xiaoliu/msmservice/service/MsmService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-msm/target/classes/com/xiaoliu/msmservice/service/impl/MsmServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-msm/target/classes/com/xiaoliu/msmservice/utils/RandomUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-msm/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-msm/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-msm/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-msm/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-msm/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-msm/target/service-msm-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-msm/target/service-msm-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-oss/service-oss.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-oss/target/classes/com/xiaoliu/oss/OssApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-oss/target/classes/com/xiaoliu/oss/controller/OssController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-oss/target/classes/com/xiaoliu/oss/service/OssService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-oss/target/classes/com/xiaoliu/oss/service/impl/OssServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-oss/target/classes/com/xiaoliu/oss/utils/ConstantPropertiesUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-oss/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-oss/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-oss/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-oss/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-oss/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-oss/target/service-oss-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-oss/target/service-oss-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/service-ucenter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/classes/com/xiaoliu/ucenterservice/UcenterApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/classes/com/xiaoliu/ucenterservice/controller/UcenterMemberController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/classes/com/xiaoliu/ucenterservice/controller/WxApiController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/classes/com/xiaoliu/ucenterservice/entity/UcenterMember.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/classes/com/xiaoliu/ucenterservice/entity/vo/RegisterVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/classes/com/xiaoliu/ucenterservice/mapper/UcenterMemberMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/classes/com/xiaoliu/ucenterservice/service/UcenterMemberService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/classes/com/xiaoliu/ucenterservice/service/impl/UcenterMemberServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/classes/com/xiaoliu/ucenterservice/utils/ConstantWeixinUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/classes/com/xiaoliu/ucenterservice/utils/HttpClientUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/classes/com/xiaoliu/ucenterservice/utils/HttpClientUtils$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/classes/com/xiaoliu/ucenterservice/utils/HttpClientUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/service-ucenter-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/service-ucenter-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-ucenter/target/test-classes/com/xiaoliu/demo/CodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/service_edu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/EduApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/client/OrderClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/client/OrderClientImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/client/UcenterClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/client/UcenterClientImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/client/VodClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/client/VodFileDegradeFeignClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/config/EduConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/controller/EduChapterController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/controller/EduCommentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/controller/EduCourseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/controller/EduCourseDescriptionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/controller/EduLoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/controller/EduSubjectController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/controller/EduTeacherController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/controller/EduVideoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/controller/front/CommentFrontController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/controller/front/CourseFrontController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/controller/front/IndexFrontController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/controller/front/TeacherFrontController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/EduChapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/EduComment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/EduCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/EduCourseDescription.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/EduSubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/EduTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/EduVideo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/chapter/ChapterVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/chapter/VideoVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/excel/SubjectData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/frontvo/CourseQueryVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/frontvo/CourseWebVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/subject/OneSubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/subject/TwoSubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/vo/CourseInfoVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/vo/CoursePublishVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/vo/CourseQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/entity/vo/TeacherQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/listener/SubjectExcelListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/mapper/EduChapterMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/mapper/EduCommentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/mapper/EduCourseDescriptionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/mapper/EduCourseMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/mapper/EduSubjectMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/mapper/EduTeacherMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/mapper/EduVideoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/service/EduChapterService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/service/EduCommentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/service/EduCourseDescriptionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/service/EduCourseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/service/EduSubjectService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/service/EduTeacherService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/service/EduVideoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/service/impl/EduChapterServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/service/impl/EduCommentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/service/impl/EduCourseDescriptionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/service/impl/EduCourseServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/service/impl/EduSubjectServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/service/impl/EduTeacherServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/service/impl/EduVideoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/service_edu-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/service_edu-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/target/test-classes/com/xiaoliu/demo/CodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/service_order.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/OrderApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/client/EduClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/client/EduClientImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/client/UcenterClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/client/UcenterImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/controller/OrderController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/controller/PayLogController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/entity/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/entity/PayLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/mapper/OrderMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/mapper/PayLogMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/service/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/service/PayLogService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/service/impl/PayLogServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/utils/HttpClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/utils/HttpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/utils/OrderNoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/service_order-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/service_order-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_order/target/test-classes/com/xiaoliu/demo/CodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/service_statistics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/classes/com/xiaoliu/staservice/StaApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/classes/com/xiaoliu/staservice/client/UcenterClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/classes/com/xiaoliu/staservice/controller/StatisticsDailyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/classes/com/xiaoliu/staservice/entity/StatisticsDaily.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/classes/com/xiaoliu/staservice/mapper/StatisticsDailyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/classes/com/xiaoliu/staservice/schedule/ScheduledTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/classes/com/xiaoliu/staservice/service/StatisticsDailyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/classes/com/xiaoliu/staservice/service/impl/StatisticsDailyServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/classes/com/xiaoliu/staservice/utils/DateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/service_statistics-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/service_statistics-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_statistics/target/test-classes/com/xiaoliu/demo/CodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_vod/service_vod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_vod/target/classes/com/xiaoliu/vod/VodApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_vod/target/classes/com/xiaoliu/vod/controller/VodController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_vod/target/classes/com/xiaoliu/vod/service/VodService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_vod/target/classes/com/xiaoliu/vod/service/impl/VodServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_vod/target/classes/com/xiaoliu/vod/utils/AliyunVodSDKUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_vod/target/classes/com/xiaoliu/vod/utils/ConstantVodUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_vod/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_vod/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_vod/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_vod/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_vod/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_vod/target/service_vod-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_vod/target/service_vod-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+    </list>
+    <list id="9c7983d0-c577-4136-a124-b0a354301c5f" name="Revert &quot;项目提交&quot;" comment="Revert &quot;项目提交&quot;&#10;&#10;This reverts commit c64080ce">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canal_client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canal_client/src/main/java/com/xiaoliu/canal/CanalApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canal_client/src/main/java/com/xiaoliu/canal/client/CanalClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canal_client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/canal_client/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/src/main/java/com/xiaoliu/commonutils/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/src/main/java/com/xiaoliu/commonutils/JwtUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/src/main/java/com/xiaoliu/commonutils/MD5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/src/main/java/com/xiaoliu/commonutils/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/src/main/java/com/xiaoliu/commonutils/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/src/main/java/com/xiaoliu/commonutils/ResponseUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/src/main/java/com/xiaoliu/commonutils/ResultCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/src/main/java/com/xiaoliu/servicebase/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/src/main/java/com/xiaoliu/servicebase/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/src/main/java/com/xiaoliu/servicebase/exceptionhandler/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/src/main/java/com/xiaoliu/servicebase/exceptionhandler/XiaoliuException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/src/main/java/com/xiaoliu/servicebase/handler/MyMetaObjectHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/spring_security/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/spring_security/src/main/java/com/xiaoliu/serurity/config/TokenWebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/spring_security/src/main/java/com/xiaoliu/serurity/entity/SecurityUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/spring_security/src/main/java/com/xiaoliu/serurity/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/spring_security/src/main/java/com/xiaoliu/serurity/filter/TokenAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/spring_security/src/main/java/com/xiaoliu/serurity/filter/TokenLoginFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/spring_security/src/main/java/com/xiaoliu/serurity/security/DefaultPasswordEncoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/spring_security/src/main/java/com/xiaoliu/serurity/security/TokenLogoutHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/spring_security/src/main/java/com/xiaoliu/serurity/security/TokenManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/spring_security/src/main/java/com/xiaoliu/serurity/security/UnauthorizedEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/api_gateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/api_gateway/src/main/java/com/xiaoliu/gateway/ApiGatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/api_gateway/src/main/java/com/xiaoliu/gateway/config/CorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/api_gateway/src/main/java/com/xiaoliu/gateway/filter/AuthGlobalFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/api_gateway/src/main/java/com/xiaoliu/gateway/handler/ErrorHandlerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/api_gateway/src/main/java/com/xiaoliu/gateway/handler/JsonExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/api_gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/api_gateway/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/AclApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/config/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/controller/IndexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/controller/PermissionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/controller/RoleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/entity/Permission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/entity/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/entity/RolePermission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/entity/UserRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/helper/MemuHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/helper/PermissionHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/mapper/PermissionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/mapper/RoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/mapper/RolePermissionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/mapper/UserRoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/mapper/xml/PermissionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/mapper/xml/PermissionMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/mapper/xml/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/mapper/xml/RoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/mapper/xml/RolePermissionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/mapper/xml/RolePermissionMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/mapper/xml/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/mapper/xml/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/mapper/xml/UserRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/xiaoliu/aclservice/mapper/xml/UserRoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/service/IndexService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/service/PermissionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/service/RolePermissionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/service/RoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/service/UserRoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/service/impl/IndexServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/service/impl/PermissionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/service/impl/RolePermissionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/service/impl/RoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/service/impl/UserDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/service/impl/UserRoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/xiaoliu/aclservice/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/test/java/com/xiaoliu/demo/CodeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-cms/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-cms/src/main/java/com/xiaoliu/cmsservice/CmsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-cms/src/main/java/com/xiaoliu/cmsservice/controller/BannerAdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-cms/src/main/java/com/xiaoliu/cmsservice/controller/BannerFrontController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-cms/src/main/java/com/xiaoliu/cmsservice/entity/CrmBanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-cms/src/main/java/com/xiaoliu/cmsservice/mapper/CrmBannerMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-cms/src/main/java/com/xiaoliu/cmsservice/mapper/xml/CrmBannerMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-cms/target/classes/com/xiaoliu/cmsservice/mapper/xml/CrmBannerMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-cms/src/main/java/com/xiaoliu/cmsservice/service/CrmBannerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-cms/src/main/java/com/xiaoliu/cmsservice/service/impl/CrmBannerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-cms/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-cms/src/test/java/com/xiaoliu/demo/CodeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-msm/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-msm/src/main/java/com/xiaoliu/msmservice/MsmApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-msm/src/main/java/com/xiaoliu/msmservice/controller/MsmController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-msm/src/main/java/com/xiaoliu/msmservice/mapper/MsmMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-msm/src/main/java/com/xiaoliu/msmservice/service/MsmService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-msm/src/main/java/com/xiaoliu/msmservice/service/impl/MsmServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-msm/src/main/java/com/xiaoliu/msmservice/utils/RandomUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-msm/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/src/main/java/com/xiaoliu/oss/OssApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/src/main/java/com/xiaoliu/oss/controller/OssController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/src/main/java/com/xiaoliu/oss/service/OssService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/src/main/java/com/xiaoliu/oss/service/impl/OssServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/src/main/java/com/xiaoliu/oss/utils/ConstantPropertiesUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/xiaoliu/ucenterservice/UcenterApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/xiaoliu/ucenterservice/controller/UcenterMemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/xiaoliu/ucenterservice/controller/WxApiController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/xiaoliu/ucenterservice/entity/UcenterMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/xiaoliu/ucenterservice/entity/vo/RegisterVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/xiaoliu/ucenterservice/mapper/UcenterMemberMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/xiaoliu/ucenterservice/mapper/xml/UcenterMemberMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-ucenter/target/classes/com/xiaoliu/ucenterservice/mapper/xml/UcenterMemberMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/xiaoliu/ucenterservice/service/UcenterMemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/xiaoliu/ucenterservice/service/impl/UcenterMemberServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/xiaoliu/ucenterservice/utils/ConstantWeixinUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/xiaoliu/ucenterservice/utils/HttpClientUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-ucenter/src/test/java/com/xiaoliu/demo/CodeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/EduApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/client/OrderClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/client/OrderClientImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/client/UcenterClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/client/UcenterClientImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/client/VodClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/client/VodFileDegradeFeignClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/config/EduConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/controller/EduChapterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/controller/EduCommentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/controller/EduCourseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/controller/EduCourseDescriptionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/controller/EduLoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/controller/EduSubjectController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/controller/EduTeacherController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/controller/EduVideoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/controller/front/CommentFrontController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/controller/front/CourseFrontController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/controller/front/IndexFrontController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/controller/front/TeacherFrontController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/EduChapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/EduComment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/EduCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/EduCourseDescription.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/EduSubject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/EduTeacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/EduVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/chapter/ChapterVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/chapter/VideoVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/excel/SubjectData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/frontvo/CourseQueryVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/frontvo/CourseWebVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/subject/OneSubject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/subject/TwoSubject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/vo/CourseInfoVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/vo/CoursePublishVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/vo/CourseQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/entity/vo/TeacherQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/listener/SubjectExcelListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/mapper/EduChapterMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/mapper/EduCommentMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/mapper/EduCourseDescriptionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/mapper/EduCourseMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/mapper/EduSubjectMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/mapper/EduTeacherMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/mapper/EduVideoMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/mapper/xml/EduChapterMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/mapper/xml/EduChapterMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/mapper/xml/EduCommentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/mapper/xml/EduCommentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/mapper/xml/EduCourseDescriptionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/mapper/xml/EduCourseDescriptionMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/mapper/xml/EduCourseMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/mapper/xml/EduCourseMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/mapper/xml/EduSubjectMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/mapper/xml/EduSubjectMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/mapper/xml/EduTeacherMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/mapper/xml/EduTeacherMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/mapper/xml/EduVideoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/xiaoliu/eduservice/mapper/xml/EduVideoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/service/EduChapterService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/service/EduCommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/service/EduCourseDescriptionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/service/EduCourseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/service/EduSubjectService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/service/EduTeacherService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/service/EduVideoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/service/impl/EduChapterServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/service/impl/EduCommentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/service/impl/EduCourseDescriptionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/service/impl/EduCourseServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/service/impl/EduSubjectServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/service/impl/EduTeacherServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/xiaoliu/eduservice/service/impl/EduVideoServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/test/java/com/xiaoliu/demo/CodeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/OrderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/client/EduClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/client/EduClientImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/client/UcenterClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/client/UcenterImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/controller/PayLogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/entity/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/entity/PayLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/mapper/OrderMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/mapper/PayLogMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/mapper/xml/OrderMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/mapper/xml/OrderMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/mapper/xml/PayLogMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_order/target/classes/com/xiaoliu/orderservice/mapper/xml/PayLogMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/service/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/service/PayLogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/service/impl/OrderServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/service/impl/PayLogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/utils/HttpClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/xiaoliu/orderservice/utils/OrderNoUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_order/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/test/java/com/xiaoliu/demo/CodeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_statistics/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_statistics/src/main/java/com/xiaoliu/staservice/StaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_statistics/src/main/java/com/xiaoliu/staservice/client/UcenterClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_statistics/src/main/java/com/xiaoliu/staservice/controller/StatisticsDailyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_statistics/src/main/java/com/xiaoliu/staservice/entity/StatisticsDaily.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_statistics/src/main/java/com/xiaoliu/staservice/mapper/StatisticsDailyMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_statistics/src/main/java/com/xiaoliu/staservice/mapper/xml/StatisticsDailyMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_statistics/target/classes/com/xiaoliu/staservice/mapper/xml/StatisticsDailyMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_statistics/src/main/java/com/xiaoliu/staservice/schedule/ScheduledTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_statistics/src/main/java/com/xiaoliu/staservice/service/StatisticsDailyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_statistics/src/main/java/com/xiaoliu/staservice/service/impl/StatisticsDailyServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_statistics/src/main/java/com/xiaoliu/staservice/utils/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_statistics/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_statistics/src/test/java/com/xiaoliu/demo/CodeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_vod/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_vod/src/main/java/com/xiaoliu/vod/VodApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_vod/src/main/java/com/xiaoliu/vod/controller/VodController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_vod/src/main/java/com/xiaoliu/vod/service/VodService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_vod/src/main/java/com/xiaoliu/vod/service/impl/VodServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_vod/src/main/java/com/xiaoliu/vod/utils/AliyunVodSDKUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_vod/src/main/java/com/xiaoliu/vod/utils/ConstantVodUtils.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="xiaoliuyl" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://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@github.com/2356597961/education.git" />
+        <option value="https://github.com/2356597961/-.git" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\localku\download" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\localku\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1zBLlYJRGgwfRqSdVH4eLkW99Mm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xiaoliu.aclservice.config" />
+      <recent name="com.xiaoliu.demo" />
+      <recent name="com.xiaoliu.canal.client" />
+      <recent name="com.xiaoliu.commonutils" />
+      <recent name="com.xiaoliu.cmsservice.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\edu_parent\common\common_utils\src\main\java\com\xiaoliu\commonutils" />
+      <recent name="D:\edu_parent\service\service-acl\src\main\java\com\xiaoliu\aclservice" />
+      <recent name="D:\edu_parent\service\service-acl\src\main\java\com\xiaoliu\aclservice\controller" />
+      <recent name="D:\edu_parent\common\spring_security\src\main\java\com\xiaoliu\serurity" />
+      <recent name="D:\edu_parent\infrastructure\api_gateway\src\main\java\com\xiaoliu\gateway" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 81 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderApplication">
+    <configuration name="CodeGenerator.run (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-acl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaoliu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaoliu.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaoliu.demo.CodeGenerator" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenerator.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service_statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaoliu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaoliu.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaoliu.demo.CodeGenerator" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AclApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-acl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoliu.aclservice.AclApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api_gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaoliu.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoliu.gateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="canal_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaoliu.canal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoliu.canal.CanalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoliu.cmsservice.CmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_edu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaoliu.eduservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoliu.eduservice.EduApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-msm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoliu.msmservice.MsmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoliu.orderservice.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoliu.oss.OssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_statistics" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoliu.staservice.StaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-ucenter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoliu.ucenterservice.UcenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_vod" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoliu.vod.VodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CodeGenerator.run" />
+      <item itemvalue="JUnit.CodeGenerator.run (1)" />
+      <item itemvalue="Spring Boot.MsmApplication" />
+      <item itemvalue="Spring Boot.UcenterApplication" />
+      <item itemvalue="Spring Boot.VodApplication" />
+      <item itemvalue="Spring Boot.OssApplication" />
+      <item itemvalue="Spring Boot.StaApplication" />
+      <item itemvalue="Spring Boot.CmsApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.AclApplication" />
+      <item itemvalue="Spring Boot.EduApplication" />
+      <item itemvalue="Spring Boot.CanalApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ApiGatewayApplication" />
+        <item itemvalue="Spring Boot.CanalApplication" />
+        <item itemvalue="Spring Boot.EduApplication" />
+        <item itemvalue="JUnit.CodeGenerator.run (1)" />
+        <item itemvalue="JUnit.CodeGenerator.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="536acafe-afde-40f1-a8db-b37242ffbe53" name="Default Changelist" comment="" />
+      <created>1633616685355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633616685355</updated>
+      <workItem from="1633616689291" duration="3056000" />
+      <workItem from="1633651907650" duration="3963000" />
+      <workItem from="1633677841435" duration="7952000" />
+      <workItem from="1633690786732" duration="12886000" />
+      <workItem from="1633752872937" duration="671000" />
+      <workItem from="1633776854957" duration="13878000" />
+      <workItem from="1633828800380" duration="4173000" />
+      <workItem from="1633874475278" duration="607000" />
+      <workItem from="1633913721285" duration="636000" />
+      <workItem from="1633942478822" duration="6509000" />
+      <workItem from="1634012663421" duration="3681000" />
+      <workItem from="1634047605703" duration="739000" />
+      <workItem from="1634098288777" duration="10055000" />
+      <workItem from="1634208783974" duration="8925000" />
+      <workItem from="1634258374479" duration="3472000" />
+      <workItem from="1634276598141" duration="14174000" />
+      <workItem from="1634348958687" duration="3133000" />
+      <workItem from="1634387972865" duration="6165000" />
+      <workItem from="1634435060263" duration="11885000" />
+      <workItem from="1634470827583" duration="9932000" />
+      <workItem from="1634516410180" duration="4161000" />
+      <workItem from="1634552143735" duration="12410000" />
+      <workItem from="1634571464577" duration="357000" />
+      <workItem from="1634641026085" duration="689000" />
+      <workItem from="1634650502128" duration="2219000" />
+      <workItem from="1634713892344" duration="5033000" />
+      <workItem from="1634818549528" duration="7959000" />
+      <workItem from="1634887173150" duration="5375000" />
+      <workItem from="1634909069941" duration="6968000" />
+      <workItem from="1634973849636" duration="1845000" />
+      <workItem from="1635042071865" duration="23103000" />
+      <workItem from="1635089432592" duration="710000" />
+      <workItem from="1635121223764" duration="3571000" />
+      <workItem from="1635135407083" duration="2439000" />
+      <workItem from="1635158943249" duration="1771000" />
+      <workItem from="1635204164400" duration="1805000" />
+      <workItem from="1635212755413" duration="2154000" />
+      <workItem from="1635245061780" duration="2376000" />
+      <workItem from="1635291731727" duration="2380000" />
+      <workItem from="1635331504384" duration="4430000" />
+      <workItem from="1635381461007" duration="7132000" />
+      <workItem from="1635418944759" duration="5959000" />
+      <workItem from="1635484152905" duration="4534000" />
+      <workItem from="1635654396038" duration="4820000" />
+      <workItem from="1635674610889" duration="1932000" />
+      <workItem from="1635756281459" duration="5000" />
+      <workItem from="1635756860794" duration="52000" />
+      <workItem from="1635838677132" duration="610000" />
+      <workItem from="1635848378422" duration="2987000" />
+      <workItem from="1635940726413" duration="8877000" />
+      <workItem from="1636020881850" duration="7173000" />
+      <workItem from="1636118973984" duration="4108000" />
+      <workItem from="1636259885079" duration="4996000" />
+      <workItem from="1636284062212" duration="3626000" />
+      <workItem from="1636341863215" duration="651000" />
+      <workItem from="1636370749215" duration="5704000" />
+      <workItem from="1636453232677" duration="10171000" />
+      <workItem from="1636589237823" duration="11136000" />
+      <workItem from="1636725539337" duration="1986000" />
+      <workItem from="1636786462907" duration="425000" />
+      <workItem from="1636808502112" duration="3472000" />
+      <workItem from="1636872973970" duration="634000" />
+      <workItem from="1636898409108" duration="3216000" />
+      <workItem from="1636980826557" duration="5119000" />
+      <workItem from="1637034810807" duration="983000" />
+      <workItem from="1637069862676" duration="4193000" />
+      <workItem from="1637109056829" duration="3819000" />
+      <workItem from="1637282670777" duration="3154000" />
+      <workItem from="1637582685511" duration="1833000" />
+      <workItem from="1637624922714" duration="5569000" />
+      <workItem from="1637850253117" duration="4200000" />
+      <workItem from="1637975067284" duration="743000" />
+      <workItem from="1638108165977" duration="2320000" />
+      <workItem from="1638153760859" duration="6515000" />
+      <workItem from="1638239608231" duration="7632000" />
+      <workItem from="1638277381538" duration="612000" />
+      <workItem from="1638279792023" duration="100000" />
+      <workItem from="1638279909139" duration="10000" />
+      <workItem from="1638339777204" duration="13712000" />
+      <workItem from="1638367196213" duration="610000" />
+      <workItem from="1638423891467" duration="7115000" />
+      <workItem from="1638450192584" duration="8892000" />
+      <workItem from="1638489721956" duration="16268000" />
+      <workItem from="1638586907994" duration="19133000" />
+      <workItem from="1638668168333" duration="33263000" />
+      <workItem from="1638759955176" duration="10741000" />
+      <workItem from="1638782193125" duration="3651000" />
+      <workItem from="1638787375096" duration="1427000" />
+      <workItem from="1638788820788" duration="6262000" />
+      <workItem from="1639313235617" duration="1742000" />
+      <workItem from="1639317038931" duration="163000" />
+      <workItem from="1640776639160" duration="40000" />
+      <workItem from="1644566368325" duration="329000" />
+      <workItem from="1644566845143" duration="9000" />
+      <workItem from="1644643807127" duration="635000" />
+      <workItem from="1644747420735" duration="2149000" />
+      <workItem from="1644806979703" duration="2113000" />
+      <workItem from="1645071720335" duration="1159000" />
+      <workItem from="1645281495478" duration="476000" />
+      <workItem from="1645709093092" duration="2008000" />
+      <workItem from="1645764686516" duration="2714000" />
+      <workItem from="1645891753128" duration="52000" />
+      <workItem from="1646150420745" duration="302000" />
+      <workItem from="1646207764163" duration="1343000" />
+      <workItem from="1646269227259" duration="1243000" />
+      <workItem from="1646354806936" duration="715000" />
+      <workItem from="1646396888556" duration="1756000" />
+      <workItem from="1646446156319" duration="3032000" />
+      <workItem from="1646532602461" duration="10118000" />
+      <workItem from="1646615829247" duration="1215000" />
+      <workItem from="1646699429344" duration="1950000" />
+      <workItem from="1647442603963" duration="1595000" />
+      <workItem from="1647510981822" duration="3524000" />
+      <workItem from="1647531043524" duration="676000" />
+      <workItem from="1647607164891" duration="648000" />
+      <workItem from="1647655647458" duration="1451000" />
+      <workItem from="1647744250795" duration="1754000" />
+      <workItem from="1647853088906" duration="1147000" />
+      <workItem from="1647933688460" duration="1250000" />
+      <workItem from="1648105752076" duration="1273000" />
+      <workItem from="1648294111551" duration="1077000" />
+      <workItem from="1649164672443" duration="1364000" />
+      <workItem from="1649207703460" duration="594000" />
+      <workItem from="1649295530466" duration="593000" />
+      <workItem from="1649819714405" duration="1197000" />
+      <workItem from="1649895392144" duration="2168000" />
+      <workItem from="1653964824302" duration="645000" />
+      <workItem from="1654130131914" duration="660000" />
+      <workItem from="1654131156030" duration="3904000" />
+      <workItem from="1654445195552" duration="251000" />
+      <workItem from="1655977182931" duration="984000" />
+      <workItem from="1656153754075" duration="617000" />
+      <workItem from="1659026084094" duration="610000" />
+      <workItem from="1659063125289" duration="6613000" />
+    </task>
+    <task id="LOCAL-00001" summary="项目提交">
+      <created>1659067045854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659067045854</updated>
+    </task>
+    <task id="LOCAL-00002" summary="项目提交">
+      <created>1659068977424</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659068977424</updated>
+    </task>
+    <task id="LOCAL-00003" summary="项目修改相应的配置">
+      <created>1659070514284</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659070514284</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="项目提交" />
+    <MESSAGE value="项目修改相应的配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目修改相应的配置" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="67" key="#Notifications" timestamp="1659070235217">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="67" key="#Notifications/0.0.1536.816@0.0.1536.816" timestamp="1659070235217" />
+    <state x="360" y="0" key="CommitChangelistDialog2" timestamp="1659070513440">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="360" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1659070513440" />
+    <state x="147" y="64" key="DiffContextDialog" timestamp="1659072021393">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="147" y="64" key="DiffContextDialog/0.0.1536.816@0.0.1536.816" timestamp="1659072021393" />
+    <state x="549" y="149" key="FileChooserDialogImpl" timestamp="1659071849620">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="149" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1659071849620" />
+    <state x="477" y="124" key="MultipleFileMergeDialog" timestamp="1659072110745">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="477" y="124" key="MultipleFileMergeDialog/0.0.1536.816@0.0.1536.816" timestamp="1659072110745" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1659071833213">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1659071833213" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1659072025584">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1659072025584" />
+    <state x="562" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659070539946">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="562" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1659070539946" />
+    <state x="555" y="199" key="git4idea.merge.GitMergeDialog" timestamp="1659069304207">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="555" y="199" key="git4idea.merge.GitMergeDialog/0.0.1536.816@0.0.1536.816" timestamp="1659069304207" />
+  </component>
+</project>

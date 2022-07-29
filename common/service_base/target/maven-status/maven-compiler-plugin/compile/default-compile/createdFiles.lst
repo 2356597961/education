@@ -1,0 +1,5 @@
+com\xiaoliu\servicebase\RedisConfig.class
+com\xiaoliu\servicebase\exceptionhandler\GlobalExceptionHandler.class
+com\xiaoliu\servicebase\handler\MyMetaObjectHandler.class
+com\xiaoliu\servicebase\exceptionhandler\XiaoliuException.class
+com\xiaoliu\servicebase\SwaggerConfig.class

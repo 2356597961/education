@@ -1,0 +1,6 @@
+com\xiaoliu\msmservice\MsmApplication.class
+com\xiaoliu\msmservice\utils\RandomUtil.class
+com\xiaoliu\msmservice\service\MsmService.class
+com\xiaoliu\msmservice\controller\MsmController.class
+com\xiaoliu\msmservice\service\impl\MsmServiceImpl.class
+com\xiaoliu\msmservice\mapper\MsmMapper.class

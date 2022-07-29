@@ -1,0 +1,12 @@
+com\xiaoliu\ucenterservice\utils\ConstantWeixinUtils.class
+com\xiaoliu\ucenterservice\service\impl\UcenterMemberServiceImpl.class
+com\xiaoliu\ucenterservice\UcenterApplication.class
+com\xiaoliu\ucenterservice\controller\WxApiController.class
+com\xiaoliu\ucenterservice\controller\UcenterMemberController.class
+com\xiaoliu\ucenterservice\utils\HttpClientUtils$1.class
+com\xiaoliu\ucenterservice\utils\HttpClientUtils.class
+com\xiaoliu\ucenterservice\utils\HttpClientUtils$2.class
+com\xiaoliu\ucenterservice\entity\vo\RegisterVo.class
+com\xiaoliu\ucenterservice\service\UcenterMemberService.class
+com\xiaoliu\ucenterservice\mapper\UcenterMemberMapper.class
+com\xiaoliu\ucenterservice\entity\UcenterMember.class

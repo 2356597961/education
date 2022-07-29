@@ -1,0 +1,5 @@
+com\xiaoliu\oss\utils\ConstantPropertiesUtils.class
+com\xiaoliu\oss\service\impl\OssServiceImpl.class
+com\xiaoliu\oss\OssApplication.class
+com\xiaoliu\oss\service\OssService.class
+com\xiaoliu\oss\controller\OssController.class

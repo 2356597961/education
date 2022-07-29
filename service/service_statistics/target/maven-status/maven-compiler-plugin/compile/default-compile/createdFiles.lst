@@ -1,0 +1,9 @@
+com\xiaoliu\staservice\controller\StatisticsDailyController.class
+com\xiaoliu\staservice\service\impl\StatisticsDailyServiceImpl.class
+com\xiaoliu\staservice\mapper\StatisticsDailyMapper.class
+com\xiaoliu\staservice\entity\StatisticsDaily.class
+com\xiaoliu\staservice\client\UcenterClient.class
+com\xiaoliu\staservice\utils\DateUtil.class
+com\xiaoliu\staservice\service\StatisticsDailyService.class
+com\xiaoliu\staservice\schedule\ScheduledTask.class
+com\xiaoliu\staservice\StaApplication.class

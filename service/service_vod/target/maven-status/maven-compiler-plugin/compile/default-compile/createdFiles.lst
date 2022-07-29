@@ -1,0 +1,6 @@
+com\xiaoliu\vod\utils\AliyunVodSDKUtils.class
+com\xiaoliu\vod\service\VodService.class
+com\xiaoliu\vod\service\impl\VodServiceImpl.class
+com\xiaoliu\vod\utils\ConstantVodUtils.class
+com\xiaoliu\vod\VodApplication.class
+com\xiaoliu\vod\controller\VodController.class
